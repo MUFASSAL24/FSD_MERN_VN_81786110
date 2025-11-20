@@ -1,0 +1,49 @@
+.body{
+    background-color: antiquewhite;
+}
+
+
+
+.h1 {
+   text-align: center;
+   background-color: bisque;
+   color: rgb(14, 14, 13);
+   padding: 20px;
+   margin-top: 20px;
+}
+.card-container{
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.cards{
+    border: 100px;
+    background-color: rgba(16, 15, 15, 0.288);
+    justify-items: center;
+    border-radius: 40px;
+    height: 350px;
+    width: 300px;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.cards img{
+    border-radius: 20px;
+    display: flex;
+    box-shadow: 5px 5px 15px rgb(6, 6, 6);
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+.btn{
+    background-color: gold;
+    border-radius: 10px;
+}
+.footer{
+    text-align: center;
+    background-color: bisque;
+    margin-top: 50px;
+    padding: 20px;
+}
